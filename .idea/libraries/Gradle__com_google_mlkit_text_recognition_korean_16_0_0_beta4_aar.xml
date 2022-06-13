@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:text-recognition-korean:16.0.0-beta4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b530e56125852b2e9e8f2bf9b0502a85/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b530e56125852b2e9e8f2bf9b0502a85/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b530e56125852b2e9e8f2bf9b0502a85/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
